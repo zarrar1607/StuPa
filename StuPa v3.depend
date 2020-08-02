@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1555241502 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\src\teacher.cpp
+	"Teacher.h"
+
+1555241459 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\include\teacher.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<GeneralFunctions.h>
+	<FileOperations.h>
+
+1555241574 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<Teacher.h>
+	<Student.h>
+
+1555599599 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\include\fileoperations.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<graphics.h>
+	<string>
+
+1555599910 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\src\fileoperations.cpp
+	"FileOperations.h"
+
+1553854695 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\src\generalfunctions.cpp
+	"GeneralFunctions.h"
+
+1553707882 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\include\generalfunctions.h
+	<iostream>
+	<fstream>
+	<FileOperations.h>
+	<sstream>
+
+1553862162 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\include\student.h
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<FileOperations.h>
+	<GeneralFunctions.h>
+
+1553925332 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0\src\student.cpp
+	"Student.h"
+
+1555677645 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<Teacher.h>
+	<Student.h>
+	<graphics.h>
+
+1555682338 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\include\teacher.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<GeneralFunctions.h>
+	<FileOperations.h>
+
+1555681518 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\include\generalfunctions.h
+	<iostream>
+	<fstream>
+	<FileOperations.h>
+	<sstream>
+
+1555599599 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\include\fileoperations.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<graphics.h>
+	<string>
+
+1553862162 e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\include\student.h
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<FileOperations.h>
+	<GeneralFunctions.h>
+
+1555682264 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\src\generalfunctions.cpp
+	"GeneralFunctions.h"
+
+1555657786 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\src\student.cpp
+	"Student.h"
+
+1555657632 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\src\teacher.cpp
+	"Teacher.h"
+
+1555656958 source:e:\zarrar2014\computer programming\mini project-1\version 1\stupa v2.0.1\src\fileoperations.cpp
+	"FileOperations.h"
+
+1555686860 source:e:\zarrar2014\computer programming\mini project-1\stupa v3\main.cpp
+	<iostream>
+	<cstdlib>
+	<Teacher.h>
+	<Student.h>
+	<graphics.h>
+
+1555682338 e:\zarrar2014\computer programming\mini project-1\stupa v3\include\teacher.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<GeneralFunctions.h>
+	<FileOperations.h>
+
+1555681518 e:\zarrar2014\computer programming\mini project-1\stupa v3\include\generalfunctions.h
+	<iostream>
+	<fstream>
+	<FileOperations.h>
+	<sstream>
+
+1555599599 e:\zarrar2014\computer programming\mini project-1\stupa v3\include\fileoperations.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<graphics.h>
+	<string>
+
+1553862162 e:\zarrar2014\computer programming\mini project-1\stupa v3\include\student.h
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<FileOperations.h>
+	<GeneralFunctions.h>
+
+1555737362 source:e:\zarrar2014\computer programming\mini project-1\stupa v3\src\fileoperations.cpp
+	"FileOperations.h"
+
+1555682264 source:e:\zarrar2014\computer programming\mini project-1\stupa v3\src\generalfunctions.cpp
+	"GeneralFunctions.h"
+
+1555657786 source:e:\zarrar2014\computer programming\mini project-1\stupa v3\src\student.cpp
+	"Student.h"
+
+1555682338 source:e:\zarrar2014\computer programming\mini project-1\stupa v3\src\teacher.cpp
+	"Teacher.h"
+

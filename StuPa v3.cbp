@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="StuPa v3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/StuPa v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/StuPa v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="SemAvg1.txt" />
+		<Unit filename="SemAvg2.txt" />
+		<Unit filename="SemAvg3.txt" />
+		<Unit filename="SemGPA1.txt" />
+		<Unit filename="SemGPA2.txt" />
+		<Unit filename="SemGPA3.txt" />
+		<Unit filename="SemRank1.txt" />
+		<Unit filename="SemRank2.txt" />
+		<Unit filename="SemRank3.txt" />
+		<Unit filename="Semester1.txt" />
+		<Unit filename="Semester2.txt" />
+		<Unit filename="Semester3.txt" />
+		<Unit filename="StudentData.txt" />
+		<Unit filename="Subjects.txt" />
+		<Unit filename="TeacherID.txt" />
+		<Unit filename="file.txt" />
+		<Unit filename="include/FileOperations.h" />
+		<Unit filename="include/GeneralFunctions.h" />
+		<Unit filename="include/Student.h" />
+		<Unit filename="include/Teacher.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/FileOperations.cpp" />
+		<Unit filename="src/GeneralFunctions.cpp" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/Teacher.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

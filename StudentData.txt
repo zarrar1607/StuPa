@@ -1,0 +1,3 @@
+084,                    Computer Science Department,Name: Mohammed Misbah Zarrar              RollNumber: 1607-17-733-084,
+085,                    Computer Science Department,Name: Mohammed Kamil Khan                 RollNumber: 1607-17-733-085,
+086,                    Computer Science Department,Name: FurquaN Nawab                       RollNumber: 1607-17-733-084,
