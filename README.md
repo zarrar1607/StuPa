@@ -1,0 +1,1 @@
+# StuPa (Student Performane Analyzer)
